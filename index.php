@@ -265,7 +265,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Web Development</h2>
+                            <h2>Web Dev</h2>
                             <hr class="star-primary">
                             <img src="img/services-webdev.jpg" class="img-responsive img-centered" alt="">
                             <p>Web development for standard and custom web applications and sites. Also has experience in Web API Development.</p>
