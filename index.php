@@ -205,7 +205,7 @@
                         <h3>Server Info</h3>
                         <p>OS: CentOS 6.4<br />
 Web Server: Nginx<br />
-PHP Version: 5.5.6<br />
+PHP Version: <?php echo phpversion();?><br />
 </p>
                     </div>
                     <div class="footer-col col-md-4">
