@@ -387,31 +387,31 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                             <p>Web Hosting Information:</p>
                             <ul class="list-inline item-details">
                                 <li>OS:
-                                    <strong><a href="#">Centos 6.3 64 bit</a></strong>
+                                    <strong><a href="#">Centos 6.3 64 bit</a></strong><br />
                                 </li>
                                 <li>Web Server:
-                                    <strong><a href="#">nginx 1.4.4</a></strong>
+                                    <strong><a href="#">nginx 1.4.4</a></strong><br />
                                 </li>
                                 <li>PHP Version:
-                                    <strong><a href="#">PHP <?php echo phpversion(); ?>(via php-fpm)</a></strong>
+                                    <strong><a href="#">PHP <?php echo phpversion(); ?>(via php-fpm)</a></strong><br />
                                 </li>
                                 <li>Bandwidth:
-                                    <strong><a href="#">10GB Monthly Bandwidth (330 requests / day on a 1MB uncached site)</a></strong>
+                                    <strong><a href="#">10GB Monthly Bandwidth (330 requests / day on a 1MB uncached site)</a></strong><br />
                                 </li>
                                 <li>Storage:
-                                    <strong><a href="#">100MB Web Space</a></strong>
+                                    <strong><a href="#">100MB Web Space</a></strong><br />
                                 </li>
                                 <li>Database:
-                                    <strong><a href="#">MySQL 5.5.34; 200MB Storage</a></strong>
+                                    <strong><a href="#">MySQL 5.5.34; 200MB Storage</a></strong><br />
                                 </li>
                                 <li>Uptime:
-                                    <strong><a href="#">99%</a></strong>
+                                    <strong><a href="#">99%</a></strong><br />
                                 </li>
                                 <li>Access and Management:
-                                    <strong><a href="#">SSH(passwordless) and FTP, because CPanel are for pussies</a></strong>
+                                    <strong><a href="#">SSH(passwordless) and FTP, because CPanel are for pussies</a></strong><br />
                                 </li>
                                 <li>Others:
-                                    <strong><a href="#">GitHub support, rewrite rules(by request)</a></strong>
+                                    <strong><a href="#">GitHub support, rewrite rules(by request)</a></strong><br />
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
