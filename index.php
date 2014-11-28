@@ -268,7 +268,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                             <h2>Web Dev</h2>
                             <hr class="star-primary">
                             <img src="img/services-webdev.jpg" class="img-responsive img-centered" alt="">
-                            <p>Web development for standard and custom web applications and sites. Also has experience in Web API Development.</p>
+                            <p>Web development for standard and custom web applications and sites. Also has experience in RESTful API Development.</p>
                             <ul class="list-inline item-details">
                                 <li>Skills:
                                     <strong><a href="#">PHP, MySQL, Node.js, Codeigniter Framework</a>
