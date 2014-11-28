@@ -385,7 +385,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                             <h2>Web Dev</h2>
                             <hr class="star-primary">
                             <p>Web Hosting Information:</p>
-                            <ul class="item-details">
+                            <ul class="list-inline item-details">
                                 <li>OS:
                                     <strong><a href="#">Centos 6.3 64 bit</a></strong><br />
                                 </li>
