@@ -477,3 +477,8 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+.warning {
+    color: red;
+    font-size: 9px;
+    font-family: Verdana,Arial,"Sans Serif";
+}
