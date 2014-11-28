@@ -346,7 +346,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                             <h2>VOIP</h2>
                             <hr class="star-primary">
                             <img src="img/services-voip.jpg" class="img-responsive img-centered" alt="">
-                            <p>Building your own call-center? I can help you with that.</p>
+                            <p>Do you want to build a center... where people can make calls?</p>
                             <ul class="list-inline item-details">
                                 <li>Skills:
                                     <strong><a href="#">Asterisk PBX, OpenSIPS load balancer, AGI Scripting via Perl</a>
