@@ -184,7 +184,7 @@
                     <p>Welcome to my site. This is where I put my portfolios, skills and projects that I have done for the past umteen years. I have one question though, if the bus driver is the last one to leave the bus, how does the bus gets closed? Feel free to hack around!</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>If you're still reading up to this point, I presume you've got too much <i>time</i> on your hands. I dunno what should I still put at this point. Maybe some nice passage. Everybody likes passages. Here it is, read on... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>If you're still reading up to this point, I presume you've got too much <i>time</i> on your hands. I dunno what should I still put at this section. Maybe some nice passage. Everybody likes passages. Here it is, read on... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="mailto:ricasiano@gmail.com" class="btn btn-lg btn-outline">
@@ -306,7 +306,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                             <h2>Web Security</h2>
                             <hr class="star-primary">
                             <img src="img/services-websec.jpg" class="img-responsive img-centered" alt="">
-                            <p>One of the most neglected aspects during web development, which could result in site defacement, identity theft and stolen data which could have devastating results and severe impact on business.</p>
+                            <p>One of the most neglected aspects during web development, which could result in site defacement, identity theft and data theft that could have devastating results and severe impact on business.</p>
                             <ul class="list-inline item-details">
                                 <li>Skills:
                                     <strong><a href="#">Web Penetration Testing</a>
@@ -366,10 +366,6 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
             </div>
         </div>
     </div>
-
-
-
-
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
