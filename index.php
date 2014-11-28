@@ -162,14 +162,16 @@
                 </div>
                 <div class="col-lg-4">
                     <p>What would you spend for <b><i class="context">20 pesos</i></b>? Host your own website! For <b><i class="context">P20.00 a month ( $0.44 ) </i></b>, you'll have your own web space running on LAMP stack. Suitable for personal websites, small business sites, prototyping or you just want to impress your prof for your thesis!</p>
+		    <br /><br />
+                    <a href="#hostingInfo" class="btn btn-lg btn-outline" data-toggle="modal">
+                        <i class="fa fa-globe"></i> More Info...
+                    </a>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                 </div>
             </div>
         </div>
     </section>
-
-
     <!-- About Section -->
     <section class="aboutme" id="about">
         <div class="container">
@@ -188,7 +190,7 @@
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="mailto:ricasiano@gmail.com" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Email Me
+                        <i class="fa fa-envelope-o"></i> Email Me
                     </a>
                 </div>
             </div>
@@ -366,6 +368,60 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
             </div>
         </div>
     </div>
+
+    <!-- Hosting Info Modal -->
+    <div class="portfolio-modal modal fade" id="portfolioWebdev" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Web Dev</h2>
+                            <hr class="star-primary">
+                            <p>Web Hosting Information:</p>
+                            <ul class="list-inline item-details">
+                                <li>OS:
+                                    <strong><a href="#">Centos 6.3 64 bit</a></strong>
+                                </li>
+                                <li>Web Server:
+                                    <strong><a href="#">nginx 1.4.4</a></strong>
+                                </li>
+                                <li>PHP Version:
+                                    <strong><a href="#">PHP <?php echo phpversion(); ?>(via php-fpm)</a></strong>
+                                </li>
+                                <li>Bandwidth:
+                                    <strong><a href="#">10GB Monthly Bandwidth (330 requests / day on a 1MB uncached site)</a></strong>
+                                </li>
+                                <li>Storage:
+                                    <strong><a href="#">100MB Web Space</a></strong>
+                                </li>
+                                <li>Database:
+                                    <strong><a href="#">MySQL 5.5.34; 200MB Storage</a></strong>
+                                </li>
+                                <li>Uptime:
+                                    <strong><a href="#">99%</a></strong>
+                                </li>
+                                <li>Access and Management:
+                                    <strong><a href="#">SSH(passwordless) and FTP, because CPanel are for pussies</a></strong>
+                                </li>
+                                <li>Others:
+                                    <strong><a href="#">GitHub support, rewrite rules(by request)</a></strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
