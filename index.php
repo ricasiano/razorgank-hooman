@@ -152,7 +152,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Hosting</h2>
+                    <h2>Web Hosting</h2>
                     <br /><br />
                 </div>
             </div>
