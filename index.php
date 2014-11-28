@@ -415,7 +415,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                                 </li>
                             </ul>
                             <br />
-                            <span class="warning">***Minimum 1 year hosting service. Does not include Domain Name(I suppose you already know that) Sites to be hosted are subject for approval and termination if deemed inappropriate. And, no, you can't host a porn site.</span> 
+                            <span class="warning">***Minimum 1 year hosting service. Does not include Domain Name(I suppose you already know that) Sites to be hosted are subject for approval and termination if deemed inappropriate. And, no, you can't host a porn site.</span> <br /><br />
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
