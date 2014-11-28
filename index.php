@@ -157,7 +157,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
+                <div class="col-lg-4 col-lg-offset-2" align="center">
                     <img src="img/shell.png" />
                 </div>
                 <div class="col-lg-4">
