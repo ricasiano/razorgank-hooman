@@ -28,7 +28,16 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-2848495-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 
 <body id="page-top" class="index">
@@ -152,7 +161,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Hosting</h2>
+                    <h2>Web Hosting</h2>
                     <br /><br />
                 </div>
             </div>
@@ -168,8 +177,6 @@
             </div>
         </div>
     </section>
-
-
     <!-- About Section -->
     <section class="aboutme" id="about">
         <div class="container">
@@ -188,7 +195,7 @@
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="mailto:ricasiano@gmail.com" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Email Me
+                        <i class="fa fa-envelope-o"></i> Email Me
                     </a>
                 </div>
             </div>
@@ -344,7 +351,7 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
                             <h2>VOIP</h2>
                             <hr class="star-primary">
                             <img src="img/services-voip.jpg" class="img-responsive img-centered" alt="">
-                            <p>Building your own call-center? I can help you with that.</p>
+                            <p>Do you want to build a center... where people can make calls?</p>
                             <ul class="list-inline item-details">
                                 <li>Skills:
                                     <strong><a href="#">Asterisk PBX, OpenSIPS load balancer, AGI Scripting via Perl</a>
@@ -366,6 +373,62 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
             </div>
         </div>
     </div>
+
+    <!-- Hosting Info Modal -->
+    <div class="portfolio-modal modal fade" id="hostingInfo" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Web Dev</h2>
+                            <hr class="star-primary">
+                            <p>Web Hosting Information:</p>
+                            <ul class="list-inline item-details">
+                                <li>OS:
+                                    <strong><a href="#">Centos 6.3 64 bit</a></strong><br />
+                                </li>
+                                <li>Web Server:
+                                    <strong><a href="#">nginx 1.4.4</a></strong><br />
+                                </li>
+                                <li>PHP Version:
+                                    <strong><a href="#">PHP <?php echo phpversion(); ?>(via php-fpm)</a></strong><br />
+                                </li>
+                                <li>Bandwidth:
+                                    <strong><a href="#">10GB Monthly Bandwidth (330 requests / day on a 1MB uncached site)</a></strong><br />
+                                </li>
+                                <li>Storage:
+                                    <strong><a href="#">100MB Web Space</a></strong><br />
+                                </li>
+                                <li>Database:
+                                    <strong><a href="#">MySQL 5.5.34; 200MB Storage</a></strong><br />
+                                </li>
+                                <li>Uptime:
+                                    <strong><a href="#">99%</a></strong><br />
+                                </li>
+                                <li>Access and Management:
+                                    <strong><a href="#">SSH(passwordless) and FTP, because CPanel are for pussies</a></strong><br />
+                                </li>
+                                <li>Others:
+                                    <strong><a href="#">GitHub support, rewrite rules(by request)</a></strong><br />
+                                </li>
+                            </ul>
+                            <br />
+                            <span class="warning">***Minimum 1 year hosting service. Does not include Domain Name(I suppose you already know that) Sites to be hosted are subject for approval and termination if deemed inappropriate. And no, you can't host a porn site.</span> <br /><br />
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
