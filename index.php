@@ -90,7 +90,8 @@
                         <span class="login-status greentext">Last login: <?php echo date('D M d H:i:s Y'); ?> from <?php echo $_SERVER['REMOTE_ADDR']; ?><br />
                 You must be from <?php echo geoip_country_name_by_name($_SERVER['REMOTE_ADDR']); ?>
                         </span><br /><br />
-                        <img class="img-responsive" src="img/pay-with-bitcoin.png" alt=""><br />
+                    <a href="#qrBitcoin" class="portfolio-link" data-toggle="modal">
+                        <img class="img-responsive" src="img/pay-with-bitcoin.png" alt=""></a><br />
                         <ul class="list-inline">
                             <li>
                                 <a href="http://facebook.com/rockerprog" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
@@ -433,6 +434,34 @@ Contact: <a href="#">ricasiano</a> at <a href="#">gmail</a> dot <a href="#">com<
             </div>
         </div>
     </div>
+
+
+    <div class="portfolio-modal modal fade" id="qrBitcoin" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Scan with a QR Code Reader</h2>
+                            <hr class="star-primary">
+                            <img src="img/qr-bitcoin.png" class="img-responsive img-centered" alt="">
+                            <p>1K4Ck4weQatdsAakKBuFTwaU5f621dSAT7</p>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
 
 
     <!-- jQuery -->
