@@ -90,6 +90,7 @@
                         <span class="login-status greentext">Last login: <?php echo date('D M d H:i:s Y'); ?> from <?php echo $_SERVER['REMOTE_ADDR']; ?><br />
                 You must be from <?php echo geoip_country_name_by_name($_SERVER['REMOTE_ADDR']); ?>
                         </span><br /><br />
+                        <img class="img-responsive" src="img/pay-with-bitcoin.png" alt=""><br />
                         <ul class="list-inline">
                             <li>
                                 <a href="http://facebook.com/rockerprog" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
