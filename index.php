@@ -228,7 +228,7 @@ PHP Version: <?php echo phpversion();?><br />
                                 <a href="http://facebook.com/rockerprog" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="http://instagram.com/razorgank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                                <a href="http://instagram.com/rai_icasiano" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                             </li>
                             <li>
                                 <a href="http://twitter.com/razorgank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
