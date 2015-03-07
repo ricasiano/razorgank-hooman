@@ -105,6 +105,12 @@
                             <li>
                                 <a href="http://github.com/ricasiano" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
                             </li>
+                            <li>
+                                <a href="https://www.linkedin.com/profile/view?id=390292809&trk=hp-identity-photo" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                            </li>
+
+
+
                         </ul>
 			<br />
 		    <div class="intro-text">
