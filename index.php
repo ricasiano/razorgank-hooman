@@ -97,7 +97,7 @@
                                 <a href="http://facebook.com/rockerprog" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="http://instagram.com/razorgank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+                                <a href="http://instagram.com/rai_icasiano" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
                             </li>
                             <li>
                                 <a href="http://twitter.com/razorgank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
@@ -241,6 +241,9 @@ PHP Version: <?php echo phpversion();?><br />
                             </li>
                             <li>
                                 <a href="http://github.com/ricasiano" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/profile/view?id=390292809&trk=hp-identity-photo" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
